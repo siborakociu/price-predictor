@@ -10,3 +10,5 @@ vehicle-price-prediction-xgboost.ipynb- Jupyter notebook, which contains the ful
 
 streamlit_app.py- This script runs the interactive web application for car price prediction. Users can input vehicle details and receive predicted prices along with explanations, combining the XGBoost model predictions with rule-based adjustments for improved interpretability.
 
+pkl files- used to save and load Python objects.
+
